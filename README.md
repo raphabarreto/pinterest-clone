@@ -4,23 +4,23 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/pinterest-clone">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/pinterest-homepage-clone">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/pinterest-clone">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/pinterest-homepage-clone">
 
-  <a href="https://github.com/raphabarreto/pinterest-clone/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/pinterest-clone">
+  <a href="https://github.com/raphabarreto/pinterest-homepage-clone/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/pinterest-homepage-clone">
   </a>
 
-  <a href="https://github.com/raphabarreto/pinterest-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/pinterest-clone">
+  <a href="https://github.com/raphabarreto/pinterest-homepage-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/pinterest-homepage-clone">
   </a>
 
-  <a href="https://github.com/raphabarreto/pinterest-clone/blob/master/LICENSE.md">
+  <a href="https://github.com/raphabarreto/pinterest-homepage-clone/blob/master/LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   <a>
 
-  <a href="https://app.netlify.com/sites/pinterest-clone-raphaelbarreto/deploys">
+  <a href="https://app.netlify.com/sites/pinterest-homepage-clone-raphaelbarreto/deploys">
     <img alt="License" src="https://api.netlify.com/api/v1/badges/4d73975b-ef60-4539-88dc-8924d6161bb5/deploy-status">
   <a>
 </p>
@@ -40,7 +40,7 @@
 ---
 
 ## ✨ Demonstração
-<p >Acesse <a href="https://pinterest-clone.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
+<p >Acesse <a href="https://pinterest-homepage-clone.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
 
 ---
 
@@ -59,14 +59,14 @@ Esta aplicação é uma reprodução da homepage do [Pinterest](https://br.pinte
 
 ## 🌐 Resultado
 <h1 align="center">
-    <img alt="Pinterest Clone" title="#delicinha" src=".github/pinterest-clone.gif" />
+    <img alt="Pinterest Clone" title="#delicinha" src=".github/pinterest-homepage-clone.gif" />
 </h1>
 
 ## 🔥 Instalação
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:raphabarreto/pinterest-clone.git
+$ git clone git@github.com:raphabarreto/pinterest-homepage-clone.git
 
 # Abre o arquivo index.html no seu navegador ou através do Live Server do Visual Studio Code
 ```
